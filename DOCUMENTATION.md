@@ -50,4 +50,4 @@ Make sure to include these dependencies in your project for the app to function 
 Credits
 -------
 
-This app was developed by [Your Name]. It is an open-source project hosted on GitHub: [Repository Link](https://github.com/CovenantJunior/speech-recognition)
+This app was developed by [Tea](https://github.com/CovenantJunior). It is an open-source project hosted on GitHub: [Repository Link](https://github.com/CovenantJunior/speech-recognition)
