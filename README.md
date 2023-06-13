@@ -58,7 +58,7 @@ This project is licensed under the [MIT License](https://github.com/CovenantJuni
 Credits
 -------
 
-This app was developed by [Tea](https://github.com/CovenantJunior/speech-recognition/). Special thanks to [Javascript](https://www.javascript.com/).
+This app was developed by [Tea](https://github.com/CovenantJunior/). Special thanks to [Javascript](https://www.javascript.com/).
 
 * * * * *
 
