@@ -42,7 +42,7 @@ Documentation Update
 
 With great pleasure, we've expanded the documentation to provide a more detailed understanding of how the `speech.js` file works. We've added a touch of humor to make the reading experience even more enjoyable.
 
-Feel free to check out the updated [documentation.md](https://github.com/CovenantJunior/speech-recognition/DOCUMENTATION.md) file to dive deeper into the app's inner workings and to unravel the secrets of speech conversion with a smile.
+Feel free to check out the updated [documentation.md](https://github.com/CovenantJunior/speech-recognition/blob/master/DOCUMENTATION.md) file to dive deeper into the app's inner workings and to unravel the secrets of speech conversion with a smile.
 
 
 Contributing
