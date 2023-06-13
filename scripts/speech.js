@@ -1,9 +1,9 @@
-// TTS Synthesis
 const play = $('#play');
 const speak = $('#speak');
 const text = $('#text');
 const output = $('#output');
 
+// TTS Synthesis
 const synthesis = window.speechSynthesis;
 
 play.on('click', () => {
