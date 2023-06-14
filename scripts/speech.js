@@ -24,7 +24,7 @@ speak.on('click', () => {
 
 _r.onresult = (e) => {
     let transcription = e.results[0][0].transcript;
-    output.text(transcription);
+    // output.text(transcription);
     text.val(transcription);
 };
 
